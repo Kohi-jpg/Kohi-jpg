@@ -1,4 +1,5 @@
 # 👋 Hi there
 
-- 🌱 I’m currently learning **Python and JavaScript** 
-
+- I'm Kohi
+- currently learning **JavaScript** 
+- Discord: kotomitako 

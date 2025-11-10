@@ -4,7 +4,7 @@
 Country:🇧🇷<br>
 City: Guarulhos</h4>
 
-<a href="https://portfolio-rose-chi-32.vercel.app/">Personal page</a>
+<a href="https://portfolio-rose-chi-32.vercel.app/">Personal page(wip)</a>
 
 ###
 

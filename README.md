@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Luiz and I'm a fullstack dev junior from Brazil</h2>
+<h2 align="left">Hi 👋! My name is Luiz</h2>
+
+<h1>Country:🇧🇷</h1>
 
 <a href="https://portfolio-rose-chi-32.vercel.app/">Personal page</a>
 

@@ -20,14 +20,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://open.spotify.com/user/226fionaqarq2v2khkto5kdja">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=226fionaqarq2v2khkto5kdja&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <div align="right">
   <a href="https://www.youtube.com/@yenifx6244" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
@@ -37,6 +29,14 @@
   </a>
   <a href="kohiluizf@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<div align="right">
+  <a href="https://open.spotify.com/user/226fionaqarq2v2khkto5kdja">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=226fionaqarq2v2khkto5kdja&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 

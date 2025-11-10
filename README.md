@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Luiz and I'm a fullstack dev junior from Brazil</h2>
 
+<a href="https://portfolio-rose-chi-32.vercel.app/">Personal page</a>
+
 ###
 
 <div align="left">
@@ -20,7 +22,7 @@
 
 ###
 
-<div align="right">
+<div align="left">
   <a href="https://www.youtube.com/@yenifx6244" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
   </a>

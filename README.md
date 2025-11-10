@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Luiz</h2>
 
-<h1>Country:🇧🇷</h1>
+<h4>Country:🇧🇷</h4>
 
 <a href="https://portfolio-rose-chi-32.vercel.app/">Personal page</a>
 

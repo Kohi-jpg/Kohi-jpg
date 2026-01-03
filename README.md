@@ -40,14 +40,6 @@ City: Guarulhos</h4>
 
 ###
 
-<div align="left">
-  <a href="https://open.spotify.com/user/226fionaqarq2v2khkto5kdja">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=226fionaqarq2v2khkto5kdja&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kohi-jpg.kohi-jpg&"  />
 </div>
